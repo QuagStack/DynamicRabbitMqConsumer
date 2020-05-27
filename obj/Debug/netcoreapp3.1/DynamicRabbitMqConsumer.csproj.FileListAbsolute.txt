@@ -1,0 +1,14 @@
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/bin/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.deps.json
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/bin/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.runtimeconfig.json
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/bin/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.runtimeconfig.dev.json
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/bin/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.dll
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/bin/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.pdb
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/obj/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.csprojAssemblyReference.cache
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/obj/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.AssemblyInfoInputs.cache
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/obj/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.AssemblyInfo.cs
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/obj/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.csproj.CoreCompileInputs.cache
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/obj/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.csproj.CopyComplete
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/obj/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.dll
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/obj/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.pdb
+/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/obj/Debug/netcoreapp3.1/DynamicRabbitMqConsumer.genruntimeconfig.cache

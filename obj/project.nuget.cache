@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PlRqGZGRx0PhDsB0+LHAcux2FiMDMKcYnLuKInJQP7RMSqQC28WDNR7lba2kbHUB5Ao8642PW3tFTRY9XJOqdQ==",
+  "success": true,
+  "projectFilePath": "/Users/dillon/source/NET Core Projects/DynamicRabbitMqConsumer/DynamicRabbitMqConsumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/dillon/.nuget/packages/rabbitmq.client/6.0.0/rabbitmq.client.6.0.0.nupkg.sha512",
+    "/Users/dillon/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
